@@ -13,11 +13,13 @@ A comprehensive curated list of available GSOC Guides, Write-ups and Tutorials ð
 - [Proposals]()
 
 ### Getting Started
+
 - [Am I Good Enough](https://google.github.io/gsocguides/student/am-i-good-enough)
 - [How do I prepare for Google Summer of Code GSoC ](https://www.quora.com/How-do-I-prepare-for-the-Google-Summer-of-Code-GSoC)
 - [What exactly is Google Summer of Code or GSoC and how do you apply for it and what is the eligibility-criteria](https://www.quora.com/What-exactly-is-Google-Summer-of-Code-or-GSoC-How-do-you-apply-for-it-and-what-is-the-eligibility-criteria)
 
 ### Write Ups & Authors
+
 - [One stop guide to Google Summer of Code](https://medium.com/coding-blocks/one-stop-guide-to-google-summer-of-code-a9e803beeda7)
 - [My GSoC Journey](https://medium.com/@ankushmalik631/my-gsoc-journey-4f02818fdb8d)
 - [The step-by-step guide to GSoC](https://medium.com/@hellomeets/the-step-by-step-guide-to-gsoc-fea68daa8e0)
@@ -36,6 +38,7 @@ A comprehensive curated list of available GSOC Guides, Write-ups and Tutorials ð
 
 
 ### Youtube
+
 - English Language
     * [GSOC 2019: Beginner's Guide from a 2 time GSOC student | ft. Akshay Deep](https://www.youtube.com/watch?v=u0IPiGhpwRE)
     * [Cracking Google Summer Of Code](https://www.youtube.com/watch?v=nhtREXZgfP8)
@@ -58,6 +61,7 @@ A comprehensive curated list of available GSOC Guides, Write-ups and Tutorials ð
     * [GSoC: How to find projects and build a proposal Hindi/Hinglish Coding Blocks](https://www.youtube.com/watch?v=RpdjewNuPzc&list=PLl4Y2XuUavmvewAv_PUlXgzXWY44xjWmo&index=1)
     
 ### Archive
+
 - [2019 Organizations](https://summerofcode.withgoogle.com/archive/2019/organizations/)
 - [2018 Organizations](https://summerofcode.withgoogle.com/archive/2018/organizations/)
 - [2017 Organizations](https://summerofcode.withgoogle.com/archive/2017/organizations/)
