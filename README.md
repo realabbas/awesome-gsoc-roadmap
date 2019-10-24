@@ -40,7 +40,7 @@ A comprehensive curated list of available GSOC Guides, Write-ups and Tutorials ð
 ### Youtube
 
 - English Language
-    * [GSOC 2019: Beginner's Guide from a 2 time GSOC student | ft. Akshay Deep](https://www.youtube.com/watch?v=u0IPiGhpwRE)
+    * [GSOC 2019: Beginner's Guide from a 2 time GSOC student ft: Akshay Deep](https://www.youtube.com/watch?v=u0IPiGhpwRE)
     * [Cracking Google Summer Of Code](https://www.youtube.com/watch?v=nhtREXZgfP8)
     * [Google Summer of Code Interview with Aayush Arora Coding Blocks](https://www.youtube.com/watch?v=sG7EErHU6EM&list=PLl4Y2XuUavmvewAv_PUlXgzXWY44xjWmo&index=4)
     * [Rajan Google Summer of Code Interview with Rajan Maurya (Mifos)](https://www.youtube.com/watch?v=hJu20dyoG4A&list=PLl4Y2XuUavmvewAv_PUlXgzXWY44xjWmo&index=6)
