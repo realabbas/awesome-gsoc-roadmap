@@ -1,7 +1,7 @@
-![Google Summer of Code GSOC](https://miro.medium.com/max/2400/1*4e68uHCQeEwZctHT0708KA.jpeg)
+![Google Summer of Code GSOC 2020](https://miro.medium.com/max/2400/1*4e68uHCQeEwZctHT0708KA.jpeg)
 
 # Awesome GSOC Resources [![Awesome GSOC Resources](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A comprehensive curated list of available GSOC Guides, Write-ups and Tutorials 🏆
+A comprehensive curated list of available GSOC 2020 Guides, Write-ups and Tutorials 🏆
 
 ## Table of Contents
 - [Getting Started](#getting-started)
