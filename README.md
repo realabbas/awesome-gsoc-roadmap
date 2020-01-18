@@ -81,3 +81,8 @@ A comprehensive curated list of available GSOC 2020 Guides, Write-ups and Tutori
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 [![Buy me coffee](https://cdn.buymeacoffee.com/buttons/default-orange.png)](https://www.buymeacoffee.com/realabbas)
+
+## Support on Beerpay
+Hey dude! Help me out for a couple of :beers:!
+
+[![Beerpay](https://beerpay.io/realabbas/awesome-gsoc-roadmap/badge.svg?style=beer-square)](https://beerpay.io/realabbas/awesome-gsoc-roadmap)  [![Beerpay](https://beerpay.io/realabbas/awesome-gsoc-roadmap/make-wish.svg?style=flat-square)](https://beerpay.io/realabbas/awesome-gsoc-roadmap?focus=wish)
