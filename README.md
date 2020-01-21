@@ -37,11 +37,13 @@ A comprehensive curated list of available GSOC 2020 Guides, Write-ups and Tutori
 - [What I experienced at Google Summer of Code](https://www.freecodecamp.org/news/the-google-summer-of-code-experience-e9329da27c66/)
 - [Summer Diaries: GSOC - What, Why, How and When](http://watchout.iitr.ac.in/2019/05/summer-diaries-gsoc)
 - [My Google Summer of Code experience](https://blog.cloudboost.io/my-google-summer-of-code-experience-576bccd19788?gi=83bf64a854c2)
-
+- [How can I participate in Google’s Summer of Code? What are the pre-requisites needed? - Quora](https://www.quora.com/How-can-I-participate-in-Google%E2%80%99s-Summer-of-Code-What-are-the-pre-requisites-needed)
+- [A total beginner guide for GSoc- Must see for beginner](https://www.quora.com/How-can-I-prepare-for-Google-Summer-of-Code-2020-if-I-just-started-coding-and-have-never-contributed-to-Open-Source-before)
 
 ### Youtube
 
 - English Language
+    * [Learn how to crack H+Goofle Summer of Code (GSoC) 2020 with a two time GS0CeR Arnav Gupta](https://www.youtube.com/watch?v=76wmqvph6hg)
     * [GSOC 2019: Beginner's Guide from a 2 time GSOC student ft: Akshay Deep](https://www.youtube.com/watch?v=u0IPiGhpwRE)
     * [Cracking Google Summer Of Code](https://www.youtube.com/watch?v=nhtREXZgfP8)
     * [Google Summer of Code Interview with Aayush Arora Coding Blocks](https://www.youtube.com/watch?v=sG7EErHU6EM&list=PLl4Y2XuUavmvewAv_PUlXgzXWY44xjWmo&index=4)
