@@ -36,6 +36,7 @@ A comprehensive curated list of available GSOC 2020 Guides, Write-ups and Tutori
 - [Google Summer of Code (GSoC)— All That a Student Needs to Know.](https://code.likeagirl.io/google-summer-of-code-gsoc-whens-and-hows-for-students-4d8453a799bb)
 - [What I experienced at Google Summer of Code](https://www.freecodecamp.org/news/the-google-summer-of-code-experience-e9329da27c66/)
 - [Summer Diaries: GSOC - What, Why, How and When](http://watchout.iitr.ac.in/2019/05/summer-diaries-gsoc)
+- [MrRoom No Broker App](https://www.mrroom.in)
 - [My Google Summer of Code experience](https://blog.cloudboost.io/my-google-summer-of-code-experience-576bccd19788?gi=83bf64a854c2)
 - [How can I participate in Google’s Summer of Code? What are the pre-requisites needed? - Quora](https://www.quora.com/How-can-I-participate-in-Google%E2%80%99s-Summer-of-Code-What-are-the-pre-requisites-needed)
 - [A total beginner guide for GSoc- Must see for beginner](https://www.quora.com/How-can-I-prepare-for-Google-Summer-of-Code-2020-if-I-just-started-coding-and-have-never-contributed-to-Open-Source-before)
