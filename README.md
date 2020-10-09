@@ -67,6 +67,7 @@ A comprehensive curated list of available GSOC 2020 Guides, Write-ups and Tutori
     
 ### Archive
 
+- [2020 Organizations](https://summerofcode.withgoogle.com/archive/2020/organizations/)
 - [2019 Organizations](https://summerofcode.withgoogle.com/archive/2019/organizations/)
 - [2018 Organizations](https://summerofcode.withgoogle.com/archive/2018/organizations/)
 - [2017 Organizations](https://summerofcode.withgoogle.com/archive/2017/organizations/)
